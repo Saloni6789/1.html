@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+    padding : 0%;
+
+
+}
+body{
+    background: url("https://i0.wp.com/gitjaipur.com/wp-content/uploads/2023/02/Best-engineering-college-in-rajasthan-1500-%C3%97-600-px-1600-%C3%97-600-px-1.png?fit=3200%2C1200&ssl=1");
+    background-size: 280%;
+    background-position: -400px 0px;
+}
+h2{
+    text-align: center;
+}
+div.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    front: size 19px;
+    border-radius: 10%;
+    border:1px solid rgba (255,255,255,0.3);
+    box-sizing: 2px 2px 15px;
+    rgba(0,0,0,0.3);
+    color: #fff;
+}
